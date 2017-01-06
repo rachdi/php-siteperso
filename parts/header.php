@@ -7,4 +7,4 @@
 </head>
 <body>
 	put some header here
-	<?php include "../parts/menu.php"; ?>
+	<?php include "../parts/menu.php";
