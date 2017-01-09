@@ -1,7 +1,7 @@
 <menu>
 	<ul>
-		<li><a href="index.php">Accueil</a></li>
-		<li><a href="index.php?pages=contact">Contact</a></li>
-		<li><a href="index.php?pages=bio">Bio</a></li>
+		<li><a href="index.php">Maison</a></li>
+		<li><a href="index.php?p=bio">Bio</a></li>
+		<li><a href="index.php?p=contact">Contact</a></li>
 	</ul>
 </menu>
